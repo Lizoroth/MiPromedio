@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Promedio</string>
+    <string name="app_titulo">Pasando el ramo</string>
+    <string name="app_lbl1">Seleccione notas</string>
+    <string name="app_lbl2">Descripcion</string>
+    <string name="app_lbl3">1</string>
+    <string name="app_lbl4">Nota</string>
+    <string name="app_lbl5">Ponderacion</string>
+    <string name="app_lbl6">Ingrese Nota</string>
+    <string name="app_lbl7">%</string>
+    <string name="app_lbl8">Porcentaje</string>
+    <string name="app_lbl9">TODO</string>
+    <string name="app_lbl10">Promedio :</string>
+    <string name="app_lbl11">Realizará Examen ?</string>
+</resources>
